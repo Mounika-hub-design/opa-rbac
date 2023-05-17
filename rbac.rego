@@ -23,9 +23,9 @@
 
 package cnapp.rbac
 
-import data.cnapp.rbac.roles                                   # import roles list from data.cnapp.rbac
-import data.cnapp.rbac.permissions                             # import permissions list from data.cnapp.rbac
-import data.cnapp.rbac.blacklist                               # import blacklist permissions list from data.cnapp.rbac
+# import data.cnapp.rbac.roles                                   # import roles list from data.cnapp.rbac
+# import data.cnapp.rbac.permissions                             # import permissions list from data.cnapp.rbac
+# import data.cnapp.rbac.blacklist                               # import blacklist permissions list from data.cnapp.rbac
 
 import input                                                   # import input.json
 
